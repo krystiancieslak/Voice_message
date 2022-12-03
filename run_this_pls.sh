@@ -1,5 +1,6 @@
 #!/bin/bash
 
+ sudo apt update
 pip install pyttsx3
 sudo apt install espeak
 sudo apt install python3-pyaudio
